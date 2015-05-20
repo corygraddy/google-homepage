@@ -1,0 +1,126 @@
+body{
+	font-family: arial, sans-serif;
+}
+footer{
+	background-color: rgb(239,239,239);
+	bottom:0;
+	font-family: arial, sans-serif;
+	font-size: 13px;
+	height: 40px;
+	left:0;
+	position: fixed;
+	width: 100%;
+}
+
+#footLine{
+	background-color: rgb(221,221,221);
+	bottom: 70px;
+	height: 1px;
+	width: 100%;
+}
+
+#footLeft{
+	float: left;
+	padding: 10px;
+}
+#footRight{
+	float: right;
+	padding: 10px;
+}
+
+span{
+	color: rgb(31,31,31);
+}
+
+.set{
+	left: 30px;
+	padding-left:25px;
+
+}
+#lset{
+	padding-right:25px;
+	padding-left: 20px;
+}
+
+a{
+	text-decoration: none;
+}
+
+#google{
+	display: block;
+	height: 100px;
+	margin: auto;
+
+}
+#center{
+	position:absolute;
+    width:400px;
+    height:300px;
+    z-index:15;
+    top:50%;
+    left:50%;
+    margin:-100px 0 0 -150px;
+}
+.search_box{
+	height: 25px;
+}
+.button{
+	padding: 8px;
+
+}
+
+#googleSearch{
+	margin: 10px 5px 10px 70px;
+}
+
+#lucky{
+	margin: 10px 45px 10px 45px;
+}
+
+.sprite{
+	background: url("googleSprite.png") no-repeat;
+	vertical-align: middle;
+	margin: 5px;
+}
+.grid{
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+	background-position: -96px -56px;
+}
+.bell{
+	width: 25px;
+	height: 25px;
+	display: inline-block;
+	background-position: -211px -114px;
+	background-color: gray;
+	border-radius: 15px;
+}
+.plus{
+	width: 30px;
+	height: 30px;
+	display: inline-block;
+	background-position: -256px -103px;
+}
+
+#face{
+	margin: 10px;
+	vertical-align: middle;
+}
+
+header{
+	font-size: 13px;
+	font-family: arial, sans-serif;
+	height: 40px;
+	position: ;
+	width: 100%;
+}
+p {
+	float: right;
+}
+.topl{
+	left: 30px;
+	padding-left:15px;
+}
+
+
